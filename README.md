@@ -39,7 +39,7 @@ End-to-end federated clustering pipeline for incomplete multi-site longitudinal 
 
 ---
 
-### 🤖 AGORA — Federated Clustering with Per-Site LLM Agents
+### 🤖 FedAutoCluster — Federated Clustering with Per-Site LLM Agents
 *Manuscript in preparation*
 
 Federated framework where each site runs a **QLoRA-finetuned LLM agent** (Qwen-7B/72B) that autonomously selects its own clustering pipeline and cluster count K from a **49,920-configuration space**.
@@ -73,7 +73,7 @@ Novel federated fuzzy clustering for decentralized incomplete longitudinal behav
 
 **Under Review / In Preparation**
 - **H. Ngo**, H. Fang, H. Wang — *FUSE: Federated Fuzzy Consensus Clustering Under Missing Data for Longitudinal Digital Health Trials*. ACM Trans. Computing for Healthcare (under review).
-- **H. Ngo** et al. — *AGORA: Distilling Clustering Expert Judgment into Federated Per-Site LLM Agents*. In preparation.
+- **H. Ngo** et al. — *FedAutoCluster: Distilling Clustering Expert Judgment into Federated Per-Site LLM Agents*. In preparation.
 
 **Journal Articles**
 - **H. Ngo** et al. — *Federated fuzzy clustering for decentralized incomplete longitudinal behavioral data*. **IEEE IoT Journal** (2023). IF 8.2 · 14 citations
